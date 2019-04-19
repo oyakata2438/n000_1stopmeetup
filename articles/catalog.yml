@@ -1,99 +1,72 @@
 PREDEF:
   # はじめに
-  - preface.re
+  - chap00-1-preface.re
 
 CHAPS:
-  # 各自書きたい内容とファイル名を追加していく
+# 第一章★勉強会って何？★（基礎知識）
+ # 初めての勉強会に⾏ってみよう！
+   - chap01-1-hekitter-first-meeting.re                     
+ # 勉強会を有効活用しよう
+   - chap01-2-event-attend-effective.re                                             
+ # 勉強会はコミュニティになる
+   - chap01-3-oyakata-community.re 
+ # どの勉強会に行くべきかわからない？そんなときは
+   - chap01-4-ichi_taro3-how-to-find.re
+ # 学生でもオープンな勉強会に行こう
+   - chap01-5-ryoto-student.re
+ # 読書会のススメ
+   - chap01-6-reading-book.re
 
-  # 一般参加編：でも、初めて参加するのはちょっと怖い？
-  # 参加する方法、参加するときのちょっとしたコツ、懇親会会話術(一般参加)
+# 第二章 勉強会に参加しよう！★（参加ノウハウ）
+ # 勉強会に参加してみよう
+   - chap02-1-gomana2-how-join-talk.re
+ # 勉強会に参加して何をするのか
+   - chap02-2-erukiti-what.re
+ # 勉強会に参加したら世界が広がった！
+   - chap02-3-varmeetup-attend.re
+ # 登壇内容の組み立て方
+   - chap02-4-ariaki-content-selection.re                                    
+ # LT 登壇のプレゼンシートを雑に生やす
+   - chap02-5-oyakata-LTslides.re
+ # LT/登壇資料を作るための方針とテクニック
+   - chap02-6-mottox2-slide-technique.re
+ # 懇親会での会話術
+   - chap02-7-talktips.re                                                   
+ # 名刺を作ろう
+   - chap02-8-oyakata-meishi.re          
+ 
+# 第三章 勉強会を開こう！★（開催ノウハウ）
+ # 勉強会を開催してみよう
+   - chap03-1-oyakata-makemeeting.re
+ # スポンサーをつけた中規模勉強会をはじめよう                          
+   - chap03-2-vtryo-startmeeting-with-sponsor.re
+ # 社内勉強会を開催しよう
+   - chap03-3-killinsun-internal-meeting.re
+ # LT 会タイムテーブル例と質問
+   - chap03-4-oyakata-timetableofLT.re
+ # 行動規範
+   - chap03-5-standard-of-conduct.re                                                           
 
-  # 勉強会って何？ 初めての勉強会に行ってみよう！
-  - chap-hekitter-first-meeting.re
-
-  # 勉強会を有効活用しよう
-  - chap-event-attend-effective.re
-  
-  # どの勉強会に行くべきかわからない？そんなときは
-  - chap-ichi_taro3-how-to-find.re
-
-  # カジュアルに名刺を作ろう
-  - chap-oyakata-meishi.re
-
-  # 勉強会の参加法、懇親会会話術
-  - chap-gomana2-how-join-talk.re
-
-  - chap-talktips.re
-
-  # 学生でもオープンな勉強会に行こう
-  - chap-ryoto-student.re
-  # 勉強会に参加して何をするのか・勉強会の心得
-  - chap-erukiti-what.re
-
-
-  # 登壇しよう。
-  # 登壇してみよう！　LTとは？　LTのスライドの基本　懇親会会話術(登壇者)
-
-  # 登壇内容の生やし方
-  - chap-ariaki-content-selection.re
-
-  # それっぽいスライドを作るテクニック
-  - chap-mottox2-slide-technique.re
-
-  # 雑にスライドを作る方法
-  - chap-oyakata-LTslides.re
-
-  # 自分でも勉強会を主催してみたい！
-  # 会場の予約、準備、飲食について
-
-  # はじめての小規模勉強会@おやかた
-  - chap-oyakata-makemeeting.re
-
-  # スポンサーをつけた中規模勉強会をはじめよう@VTRyo,@はっせー
-  - chap-vtryo-startmeeting-with-sponsor.re
-
-  # 社内勉強会を開催しよう
-  - chap-killinsun-internal-meeting.re
-
-  # 中小SIer企業でも社内勉強会を一年間続けられたよ
-  - chap-mzryuka-internal-study-group.re
-
-  - chap-himarin269-internal.re
-
-  # LT会のタイムテーブルと質問について
-  - chap-oyakata-timetableofLT.re
-
-  # 読書会のススメ
-  - chap-reading-book.re
-
-  # 勉強会アンチパターン；ポシャる会
-  - chap-oyakata-MeetingAntipattern.re
-
-  # 行動規範
-  - chap-standard-of-conduct.re
-
-  # 勉強会のその先に
-  # コミュニティを作ろう、コミュニティ運営、ほかのコミュニティとのつながり
-
-  - chap-oyakata-community.re
-
-  # こんな勉強会があるよ！（主催者編）
-  - chap-llminatoll-various.re
-  # - chap-techpub.re
-
-  # こんな勉強会があるよ！（参加者編）
-  - chap-varmeetup-attend.re
-
-  # 主催して広がった世界
-  - chap-meetingorganize.re
-
-  # ノンジャンル勉強会、LT会の紹介、その他。
+# 第四章 こんな勉強会開いてみた！★（経験談）
+ # 中⼩ SIer 企業でも社内勉強会を⼀年間続けられたよ
+   - chap04-1-mzryuka-internal-study-group.re
+ # 社内講座制度の立ち上げと今後の展望＠ひらりん                         
+   - chap04-2-himarin269-internal.re
+ # 立ち消えた勉強会
+   - chap04-3-oyakata-MeetingAntipattern.re                                                    
+ # 主催して初めて見える、勉強会の新たな世界 @あわな                     
+   - chap04-4-meetingorganize.re
 
 APPENDIX:
 
+ # 付録 勉強会はこんなにたくさんある！★（勉強会紹介）
+  # こんな勉強会があるよ！
+  - chap-08-1-llminatoll-various.re
+  # 参加者編
+
 POSTDEF:
   # あとがき
-  - postscript.re
+  - chap09-postscript.re
 
   # 執筆者一覧
   - contributors.re
