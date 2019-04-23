@@ -4,7 +4,7 @@ PREDEF:
 
 CHAPS:
 # 第一章★勉強会って何？★（基礎知識）
- # 初めての勉強会に⾏ってみよう！
+ # 初めての勉強会に?ってみよう！
    - chap01-1-hekitter-first-meeting.re                     
  # 勉強会を有効活用しよう
    - chap01-2-event-attend-effective.re                                             
@@ -45,10 +45,12 @@ CHAPS:
  # LT 会タイムテーブル例と質問
    - chap03-4-oyakata-timetableofLT.re
  # 行動規範
-   - chap03-5-standard-of-conduct.re                                                           
+   - chap03-5-standard-of-conduct.re
+ # 料理とお酒
+   - chap03-6-foodanddrink.re
 
 # 第四章 こんな勉強会開いてみた！★（経験談）
- # 中⼩ SIer 企業でも社内勉強会を⼀年間続けられたよ
+ # 中? SIer 企業でも社内勉強会を?年間続けられたよ
    - chap04-1-mzryuka-internal-study-group.re
  # 社内講座制度の立ち上げと今後の展望＠ひらりん                         
    - chap04-2-himarin269-internal.re
